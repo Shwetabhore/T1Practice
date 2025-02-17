@@ -1,0 +1,18 @@
+1.Points System: Award points to users for uploading materials, commenting, and rating. Users can accumulate points and earn badges.
+
+2.Leaderboards: Display leaderboards for top contributors and active users, fostering healthy competition.Award certificates and digital badges for active contributions, such as the number of uploads, and user ratings.
+Display badges on user profiles to recognize top contributors.
+
+3.Allow users to comment on and rate the study materials.Feedback system for continuous improvement.
+
+4.Highlight popular materials and trending uploads on the homepage.
+
+5.Allow seniors to upload video tutorials and lectures.
+
+6. Use AI to summarize long study materials for quick review.
+
+7.Allow points to be redeemed for rewards like gift cards, college merchandise, or access to special events.
+
+
+there is a significant gap in the availability and accessibility of study materials for students. Juniors often struggle to find comprehensive and reliable resources, such as notes and presentations,which hampers their academic progress and preparation.
+To address this issue, we propose the development of an online platform that facilitates the sharing of college resources between senior and junior students. This platform will serve as a centralized repository where seniors can upload their study materials, and juniors can easily access and download these resources. The goal is to enhance the learning experience, promote academic collaboration, and ensure that all students have equal access to essential study aids. 
